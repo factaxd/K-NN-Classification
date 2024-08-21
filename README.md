@@ -14,27 +14,6 @@ This project implements a **K-Nearest Neighbors (K-NN)** algorithm from scratch 
 
 ---
 
-## Project Structure
-
-knn_project/
-│
-├── data/
-│ ├── dataset.csv # The dataset used for training and testing
-│
-├── src/
-│ ├── knn.py # K-NN algorithm implementation
-│ ├── preprocess.py # Data preprocessing (loading, splitting, normalizing)
-│ ├── evaluation.py # Model evaluation (accuracy, confusion matrix, report)
-│
-├── ui.py # Main GUI application (Tkinter)
-├── requirements.txt # List of Python libraries required to run the project
-├── README.md # Project overview and instructions (this file)
-└── main.py # Entry point for running the project (optional)
-
-
-
----
-
 ## Requirements
 
 To run this project, you need to install the required Python libraries. You can install the dependencies using the provided `requirements.txt` file.
